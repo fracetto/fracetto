@@ -4,11 +4,8 @@
 
     JAVA 8+
 
-    VERT.X
-
     ANGULAR 2
 
-    REACT...
 
 <!---
 - 💞️ I’m looking to collaborate on ...
