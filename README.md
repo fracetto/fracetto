@@ -4,7 +4,7 @@
 
     JAVA 8+
 
-    ANGULAR 2
+    ANGULAR 2+
 
 
 <!---
